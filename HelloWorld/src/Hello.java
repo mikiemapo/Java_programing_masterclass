@@ -57,7 +57,8 @@ public class Hello {
         boolean isNoRemainder = (myRemainder == 0) ?         true :                                  false;
         System.out.println("is no remainder = " + myRemainder);
         if (!isNoRemainder) {
-            System.out.println("got a some remainder");
+            System.out.println("got some remainder");
+
         }
         }
     }
