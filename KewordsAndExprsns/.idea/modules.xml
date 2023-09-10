@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KewordsAndExprsns.iml" filepath="$PROJECT_DIR$/KewordsAndExprsns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" />
     </modules>
   </component>
 </project>
