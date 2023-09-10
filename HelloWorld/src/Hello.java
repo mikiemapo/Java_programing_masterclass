@@ -41,7 +41,7 @@ public class Hello {
             System.out.println("This car is domestic to the country");
 
         }
-        // var       operand1 condition we checking     operand2(false) if condition is true    operand 3(true) if cond is false
+        // var       operand1 condition we checking     operand2(true) if condition is true    operand 3(false) if cond is false
         String s = (isDomestic) ?                       "This car is domestic" :                    "This car is not domestic";
 
         System.out.println(s);
@@ -57,7 +57,8 @@ public class Hello {
         boolean isNoRemainder = (myRemainder == 0) ?         true :                                  false;
         System.out.println("is no remainder = " + myRemainder);
         if (!isNoRemainder) {
-            System.out.println("got a some remainder");
+            System.out.println("got some remainder");
+
         }
         }
     }
