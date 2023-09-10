@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String [] args) {
+    public static <String> void main(String [] args) {
        //keyword  | this is the expression except ;and ()|
         double kilometers = (100 * 1.609344) ;
         //keyword int  | this is the expression |
