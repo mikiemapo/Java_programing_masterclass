@@ -13,7 +13,7 @@ public class MainChallange {
         levelCompleted = 8;
         bonus = 200;
         System.out.println("Your NEXT high score is " +
-                // execute or calling method as a statement this comunicate with return type called procedure
+                // execute or calling method as a statement this communicates with return type called procedure
                         calculateScore(gameOver, score, levelCompleted, bonus));
 
     }
