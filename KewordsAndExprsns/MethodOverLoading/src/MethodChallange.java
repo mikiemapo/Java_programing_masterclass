@@ -16,6 +16,7 @@ public class MethodChallange {
         displayHighScorePosition("James", highScorePosition);
 
     }
+// method modifies  return type void,int,etc.   name     parameters use boolean first part datatype then param or argument and name inheritly created the variables
 
     public static void displayHighScorePosition(String playerName, int highScorePosition) {
         System.out.println(playerName + "  managed to get into position"
