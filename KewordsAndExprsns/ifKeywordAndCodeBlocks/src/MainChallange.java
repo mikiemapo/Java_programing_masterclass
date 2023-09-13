@@ -13,11 +13,11 @@ public class MainChallange {
         levelCompleted = 8;
         bonus = 200;
         System.out.println("Your NEXT high score is " +
-                // execute or calling method as a statement this comunicate with return type called procedure
+                // execute or calling method as a statement this communicates with return type and is  called a procedure
                         calculateScore(gameOver, score, levelCompleted, bonus));
 
     }
-        // method  return type void,int,etc.   name     parameters use boolean first part datatype then param or argument and name inheritly created the variables
+        // method modifies  return type void,int,etc.   name     parameters use boolean first part datatype then param or argument and name inheritly created the variables
        public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
            int finalScore = score;
            if (gameOver) {
