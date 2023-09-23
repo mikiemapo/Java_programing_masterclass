@@ -6,8 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/KewordsAndExprsns.iml" filepath="$PROJECT_DIR$/KewordsAndExprsns.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodOverLoading/MethodOverLoading.iml" filepath="$PROJECT_DIR$/MethodOverLoading/MethodOverLoading.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/ThePrimeNumberChallang/Sum3And5Challange/Sum3And5Challange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/ThePrimeNumberChallang/Sum3And5Challange/Sum3And5Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/ThePrimeNumberChallang/ThePrimeNumberChallang.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/ThePrimeNumberChallang/ThePrimeNumberChallang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/WhileLoopChallange/WhileLoopChallange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/WhileLoopChallange/WhileLoopChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlFlow/controlFlow.iml" filepath="$PROJECT_DIR$/controlFlow/controlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/controlFlowChallange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/controlFlowChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/digit sum challange/digit sum challange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/digit sum challange/digit sum challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/oddNumberChallange/oddNumberChallange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/oddNumberChallange/oddNumberChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/untitled/untitled.iml" filepath="$PROJECT_DIR$/CodeChallange/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlFlow/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/controlFlow/whileLoop/whileLoop.iml" />
     </modules>
   </component>
 </project>

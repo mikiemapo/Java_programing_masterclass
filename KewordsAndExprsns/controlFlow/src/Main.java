@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
+        printWeekDay(2);
+        System.out.println(printDayOfWeek(5));
         natoPhonetic();
 //        int value = 1;
 //        if (value == 1) {
@@ -50,6 +51,7 @@ public class Main {
             default -> "bad";
         };
     }
+
     public static char natoPhonetic() {
         char charValue = 'A';
 
@@ -70,5 +72,32 @@ public class Main {
         }
         return charValue;
     }
-}
 
+    public static String printDayOfWeek(int day) {
+        String dayNum = switch (day) {
+            case 0 -> ("Sunday");
+            case 1 -> ("Monday");
+            case 2 -> ("Tuesday");
+            case 3 -> ("Wednesday");
+            case 4 -> ("Thursday");
+            case 5 -> ("Friday");
+            case 6 -> ("Saturday");
+            default -> ("Invalid Day");
+        };
+        System.out.println(day + dayNum);
+        return dayNum;
+    }
+    public static void printWeekDay(int day){
+
+        if (day == 0){
+            System.out.println("Monday");
+        }else if (day == 1){
+            System.out.println("Tuesday");
+        }else if (day == 2){
+            System.out.println("Wednesday");
+        }else{
+            System.out.println("Invalid day");
+        }
+
+    }
+}
