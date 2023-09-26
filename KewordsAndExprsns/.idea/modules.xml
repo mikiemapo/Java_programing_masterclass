@@ -22,7 +22,9 @@
       <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/oddNumberChallange/oddNumberChallange.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/oddNumberChallange/oddNumberChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/palindrome/palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/print number to words/print number to words.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/print number to words/print number to words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/print start/print star.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/print start/print star.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/the greatest common divisor/the greatest common divisor.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/the greatest common divisor/the greatest common divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChallange/controlFlowChallange/the largest prime number/the largest prime number.iml" filepath="$PROJECT_DIR$/CodeChallange/controlFlowChallange/the largest prime number/the largest prime number.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChallange/untitled/untitled.iml" filepath="$PROJECT_DIR$/CodeChallange/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlFlow/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/controlFlow/whileLoop/whileLoop.iml" />
     </modules>
