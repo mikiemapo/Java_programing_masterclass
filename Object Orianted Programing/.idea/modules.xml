@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/ClassesPart1/ClassesPart1.iml" filepath="$PROJECT_DIR$/OOP Challanges/ClassesPart1/ClassesPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Min and Max Challange/Min and Max Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Min and Max Challange/Min and Max Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/OOP Challanges.iml" filepath="$PROJECT_DIR$/OOP Challanges/OOP Challanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Orianted Programing.iml" filepath="$PROJECT_DIR$/Object Orianted Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" filepath="$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/input Calculator/input Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/input Calculator/input Calculator.iml" />
+    </modules>
+  </component>
+</project>
