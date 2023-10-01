@@ -3,14 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Carpet Cost Calculator/Carpet Cost Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/Carpet Cost Calculator/Carpet Cost Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/ClassesPart1/ClassesPart1.iml" filepath="$PROJECT_DIR$/OOP Challanges/ClassesPart1/ClassesPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Complex number/Complex number.iml" filepath="$PROJECT_DIR$/OOP Challanges/Complex number/Complex number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Constructor challange/Constructor challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Constructor challange/Constructor challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Min and Max Challange/Min and Max Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Min and Max Challange/Min and Max Challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/OOP Challanges.iml" filepath="$PROJECT_DIR$/OOP Challanges/OOP Challanges.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object Orianted Programing.iml" filepath="$PROJECT_DIR$/Object Orianted Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/POJO plain old java obj/POJO plain old java obj.iml" filepath="$PROJECT_DIR$/OOP Challanges/POJO plain old java obj/POJO plain old java obj.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" filepath="$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Person/Person.iml" filepath="$PROJECT_DIR$/OOP Challanges/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Sum Calculator/Sum Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/Sum Calculator/Sum Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Wall/Wall.iml" filepath="$PROJECT_DIR$/OOP Challanges/Wall/Wall.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/input Calculator/input Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/input Calculator/input Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP Challanges/point Distance measuring/point Distance measuring.iml" filepath="$PROJECT_DIR$/OOP Challanges/point Distance measuring/point Distance measuring.iml" />
     </modules>
   </component>
 </project>
