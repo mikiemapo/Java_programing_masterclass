@@ -1,7 +1,7 @@
 public class Animal {
     // field atributes
-
-    private String type;
+// change field atributre to protected fo dog noise can change
+    protected String type;
     private String size;
 
     private double weight;
