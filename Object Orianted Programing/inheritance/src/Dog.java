@@ -1,4 +1,4 @@
-// dog child animal super parent
+// dog child animal extends super parent
 public class Dog extends Animal{
     private  String earShape;
     private String tailShape;
@@ -26,19 +26,19 @@ public class Dog extends Animal{
         return "Dog{" +
                 "earShape='" + earShape + '\'' +
                 ", tailShape='" + tailShape + '\'' +
-                "} " + super.toString();
+                "} " + super.toString(); // this is like using the this. method
     }
 
     @Override // this overrides the make noise method in animal (parent) method
     public void makeNoise() {
         if (type == "Wolf"){
-            System.out.println("Ow Woof ");
+            System.out.println("Ow Woooo ");
         }
         bark();
         System.out.println();
     }
 
-    @Override
+    @Override // overides the method in the main method
     public void move(String speed) {
         super.move(speed);
         //System.out.println("Dogs walk, run and wag their tails");

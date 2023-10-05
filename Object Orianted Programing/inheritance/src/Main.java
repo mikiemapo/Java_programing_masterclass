@@ -24,7 +24,7 @@ public class Main {
     public  static void  doAnimalStuff(Animal animal, String speed){
         animal.makeNoise();
         animal.move(speed);
-        System.out.println(animal);
+        System.out.println(animal); // this calls the to string method when animals an instance of dog
         System.out.println("_____________");
     }
 }

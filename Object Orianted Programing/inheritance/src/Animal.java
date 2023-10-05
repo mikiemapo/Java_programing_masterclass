@@ -1,13 +1,13 @@
 public class Animal {
     // field atributes
-// change field atributre to protected fo dog noise can change
+// change field atributre to protected for dog noise can change
     protected String type;
     private String size;
 
     private double weight;
 
     public Animal(){
-        // animal constructor to be noticed in dog
+        // animal constructor points to dog
     }
 
 // constructor
@@ -17,7 +17,7 @@ public class Animal {
         this.weight = weight;
     }
 
-    @Override // this is the to string method on animal
+    @Override // this is the to string method for animal
     public String toString() {
         return "Animal{" +
                 "type='" + type + '\'' +
@@ -31,7 +31,7 @@ public class Animal {
     }
 
     public void makeNoise() {
-        System.out.println(type + " moves some kind of noise");
+        System.out.println(type + " makes some kind of noise");
     }
 }
 
