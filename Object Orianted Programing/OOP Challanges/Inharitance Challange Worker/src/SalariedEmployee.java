@@ -17,7 +17,7 @@ public class SalariedEmployee extends Employee{
     }
 
     public void retire(){
-        terminate("2024");
+        terminate("12/12/2024");
         isRetired = true;
     }
 }

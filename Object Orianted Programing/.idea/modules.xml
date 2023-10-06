@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" filepath="$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Carpet Cost Calculator/Carpet Cost Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/Carpet Cost Calculator/Carpet Cost Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" filepath="$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" filepath="$PROJECT_DIR$/OOP Challanges/Paint Job/Paint Job.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Person/Person.iml" filepath="$PROJECT_DIR$/OOP Challanges/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringFormating/StringFormating.iml" filepath="$PROJECT_DIR$/StringFormating/StringFormating.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Sum Calculator/Sum Calculator.iml" filepath="$PROJECT_DIR$/OOP Challanges/Sum Calculator/Sum Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/The User input challange/The User input challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Wall/Wall.iml" filepath="$PROJECT_DIR$/OOP Challanges/Wall/Wall.iml" />
