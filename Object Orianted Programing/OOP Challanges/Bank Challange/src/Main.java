@@ -1,22 +1,28 @@
 public class Main {
     public static void main(String[] args) {
 
-        BankAcc bankAcc = new BankAcc();
-        bankAcc.setEmail("email@email.com");
 
+        BankAcc Mike = new BankAcc();// default constructor no args
+//        BankAcc Mike = new BankAcc(12345,  5000.00,
+//                "+09876536", "Mike",
+//                "email@email.com") ;
+        System.out.println(Mike.getAccountNumber());
+        System.out.println(Mike.getAccountBalance());
 
-
-        BankAcc Mike = new BankAcc();
-
-        Mike.setAccountBalance(50.00);
-        Mike.setAccountNumber(12345);
-        Mike.setCustomerName("Mike");
-        Mike.setEmail("email@email.com");
-        Mike.setPhoneNumber("+09876536");
+//        Mike.setAccountBalance(50.00);
+//        Mike.setAccountNumber(12345);
+//        Mike.setCustomerName("Mike");
+//        Mike.setEmail("email@email.com");
+//        Mike.setPhoneNumber("+09876536");
 
         Mike.deposit(50.00);
         Mike.withdraw(155.50);
 
         Mike.describeAcc();
+
+        BankAcc timsAccount = new BankAcc("12345" , "Tim",
+                "tim@email.com");
+        System.out.println("AccountNo: " + timsAccount.getAccountNumber()
+                + "; name " + timsAccount.getCustomerName());
     }
 }
