@@ -21,8 +21,8 @@ public class NextMain {
         if(unknownObject.getClass().getSimpleName() == "Comedy"){
             Comedy c = (Comedy) unknownObject;
             c.watchComedy();
-        } else if (unknownObject instanceof Adventure) { // instanceof operator tests the type of an object instance the
-            //reff variable been tested is to the left operand unknownO....
+        } else if (unknownObject instanceof Adventure) { // instanceof operator tests the type of object instance the
+            //ref variable been tested is to the left operand unknownO....
             // the type we testing for is the right operand Adv...
             ((Adventure) unknownObject).watchAdventure();
         } else if (unknownObject instanceof ScienceFiction syfy) {
