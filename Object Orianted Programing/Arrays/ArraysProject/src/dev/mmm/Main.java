@@ -21,6 +21,7 @@ public class Main {
 
         int[] newArray;
        // newArray = new int[] {5,4,3,2,1};
+    // reversing the array
         newArray = new int[5];
         for (int i = 0; i < newArray.length; i++) {
             newArray[i] = newArray.length - i;
