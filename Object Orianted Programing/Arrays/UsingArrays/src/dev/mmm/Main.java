@@ -30,7 +30,31 @@ public class Main {
 
         int[] largeArray = Arrays.copyOf(thirdArray, 15);
         System.out.println(Arrays.toString(largeArray));
+
+        String[] sArray = { "Able", "Jane", "Mark", "Ralph", "David"};
+        Arrays.sort(sArray); // sort in alphabetic
+        System.out.println(Arrays.toString(sArray));
+        // binary search
+        if (Arrays.binarySearch(sArray, "Mark") >= 0){
+            System.out.println("Found Mark");
+        }
+
+        int[] s1 = {1,2,3,4,5};
+        int[] s2 = {1,2,3,4,5};
+        // check if equal
+        if (Arrays.equals(s1, s2)) {
+            System.out.println("Arrays equal");
+        } else {
+            System.out.println("Arrays NOT equal");
+        }
+
+        int [] randArray = getRandomArray(10);
+        System.out.println(Arrays.toString(randArray));
+        Arrays.sort(randArray);
+        System.out.println(Arrays.toString(randArray));
     }
+
+
 
     private static int[] getRandomArray(int len) {
         Random random = new Random();
