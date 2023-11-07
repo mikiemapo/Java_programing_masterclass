@@ -32,11 +32,11 @@ public class Main {
         while (flag) {
             flag = false;
             for (int i = 0; i < sortedArray.length - 1; i++) { // start at 0 compare 2 elements at a time
-                if(sortedArray[i] < sortedArray[i + 1]) { // compare 1 and 2 if 1 < 2 then swap
-                    temp = sortedArray[i]; // store while swap
+                if(sortedArray[i] < sortedArray[i + 1]) { // compare 1 and 2 if element1 < element2 7 < 30
+                    temp = sortedArray[i]; // then swap store in temp  while swap 30 >< 7
                     sortedArray[i] = sortedArray[i + 1]; // set current to value we want swapped in
-                    sortedArray[i + 1] = temp; // set the next element value to the one in temp
-                    flag = true;
+                    sortedArray[i + 1] = temp; // set the next element value to temp arr
+                    flag = true; // flag is set to true and then repeat until theres nothing left to swap
                     System.out.println("----->" + Arrays.toString(sortedArray));
                 }
             }
