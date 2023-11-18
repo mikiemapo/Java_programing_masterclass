@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" filepath="$PROJECT_DIR$/AllAboutStrings/AllAboutStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayListChallange/ArrayListChallange.iml" filepath="$PROJECT_DIR$/Arrays/ArrayListChallange/ArrayListChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/Arrays/ArrayLists/ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArraysAndArrayLists/ArraysAndArrayLists.iml" filepath="$PROJECT_DIR$/Arrays/ArraysAndArrayLists/ArraysAndArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/ArraysChallange/ArraysChallange.iml" filepath="$PROJECT_DIR$/Arrays/ArraysChallange/ArraysChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/ArraysProject/ArraysProject.iml" filepath="$PROJECT_DIR$/Arrays/ArraysProject/ArraysProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" filepath="$PROJECT_DIR$/OOP Challanges/Bank Challange/Bank Challange.iml" />
